@@ -134,6 +134,11 @@
   </types>
   <types>
     <members>*</members>
+    <members>Lead</members>
+    <members>Opportunity</members>
+    <members>Case</members>
+    <members>Contact</members>
+    <members>Account</members>
     <name>CustomObject</name>
   </types>
   <types>
